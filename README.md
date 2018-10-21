@@ -105,6 +105,8 @@
   + [ByteBall加密通信原理解析](https://bbfans.org/2018/08/08/byteball-private-communication/)
   + [ByteBall目前存在的一些问题及改进方向](https://bbfans.org/2018/08/25/byteball-flaws-and-future-direction/)
   + [ByteBall核心算法之交易单元生成过程](https://bbfans.org/2018/08/31/byteball-core-algorithm-unit-generation/)
+  + [Byteball JS Tutorials #1 : Understanding basics.](https://steemit.com/utopian-io/@genievot/byteball-js-tutorials-1-understanding-basics-1535603550862)
+  + [Byteball JS Tutorials #2 : Create a web page that sends bytes to any byteball account](https://steemit.com/utopian-io/@genievot/byteball-js-tutorials-2-create-a-web-page-that-sends-bytes-to-any-byteball-account-1535960188987)
 
 ### NANO
 
