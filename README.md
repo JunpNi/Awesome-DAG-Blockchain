@@ -38,6 +38,7 @@
 + [Scaling cryptocurrencies: DAGs](https://codeburst.io/scaling-crypto-dags-82363451e753)
 + [Scaling crypto (idea): DAG + “clockchain”](https://medium.com/@thedavidmeister/scaling-crypto-idea-dag-clockchain-7809532c76bc)
 + [白话DAG：第3代区块链技术DAG全面盘点](https://bbfans.org/2018/05/21/dag-blockchain-review/)
++ [Are DAGs the next big thing in crypto?](https://blog.goodaudience.com/are-dags-the-next-big-thing-in-crypto-eed8a28591db)
 
 ## DAG基础
 
@@ -57,7 +58,6 @@
     + [中文翻译](https://github.com/DAGfans/TranStudy/blob/master/Papers/PHANTOM%20-%20A%20Scalable%20BlockDAG%20protocol.md)
 + [Snowflake to Avalanche: A Novel Metastable Consensus Protocol Family for Cryptocurrencies](https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV) - 新型的DAG协议Avalanche
 + [Scaling Nakamoto Consensus to Thousands of Transactions per Second](https://arxiv.org/pdf/1805.03870.pdf) - 新型的DAG协议Conflux
-
 
 ## 典型项目
 
@@ -108,6 +108,8 @@
   + [ByteBall核心算法之交易单元生成过程](https://bbfans.org/2018/08/31/byteball-core-algorithm-unit-generation/)
   + [Byteball JS Tutorials #1 : Understanding basics.](https://steemit.com/utopian-io/@genievot/byteball-js-tutorials-1-understanding-basics-1535603550862)
   + [Byteball JS Tutorials #2 : Create a web page that sends bytes to any byteball account](https://steemit.com/utopian-io/@genievot/byteball-js-tutorials-2-create-a-web-page-that-sends-bytes-to-any-byteball-account-1535960188987)
+  + [Tutorial for developers on Byteball. Part 1](https://steemit.com/cryptocurrency/@xjenek/tutorial-for-developers-on-byteball-part-1)
+  + [The problems with Byteball](https://steemit.com/byteball/@wimpethomas/the-problems-with-byteball)
 
 ### NANO
 
@@ -167,6 +169,9 @@
 + [官网](https://www.perlin.net/)
 + [白皮书](https://ipfs.io/ipfs/QmXNJXNtxFDg5vwBiXuDSUGpfatakock1qJzQkNujzrP37)
 + [代码库](https://github.com/perlin-network)
++ 相关文章：
+  + [Wavelet: a metastable, Sybil-resistant ledger](https://medium.com/perlin-network/wavelet-a-metastable-sybil-resistant-ledger-517ea7ee9031)
+
 
 ### DAGX
 
