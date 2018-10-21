@@ -74,6 +74,7 @@
   + [创始人come-from-beyond解释IOTA的经济学考虑](https://medium.com/@comefrombeyond/economic-clustering-and-iota-d3a77388900)
   + [IOTA可视化展示](https://public-rdsdavdrpd.now.sh/)
   + [IOTA is centralized](https://medium.com/@ercwl/iota-is-centralized-6289246e7b4d)
+  + [物联网与『高效的』IOTA](https://draveness.me/iota-tangle)
 
 ### Byteball
 
