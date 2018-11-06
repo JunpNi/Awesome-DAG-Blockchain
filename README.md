@@ -149,6 +149,26 @@
   + [Hedera Hashgraph and a few thoughts on the future of distributed ledgers](https://medium.com/@eburgwedel/hedera-hashgraph-and-a-few-thoughts-on-the-future-of-distributed-ledgers-648e9eefb901)
   + [Blockchains vs. Hashgraphs](https://hackernoon.com/blockchains-vs-hashgraphs-66a2058c8b43)
 
+### MIXIN
++ 简介：A free and lightning fast peer-to-peer transactional network for digital assets.
++ [官网](https://mixin.one/)
++ [白皮书](https://mixin.one/assets/Mixin-Draft-2018-07-01.pdf)
++ [代码库](https://github.com/MixinNetwork)
++ Development Resources
+  + Mixin developer group: https://mixin.one/codes/0f2a743d-d86b-4a6c-b26c-14e320799311
+  + Telegram group: https://t.me/MixinDevelopers
+  + Golang SDK: https://github.com/MixinNetwork/bot-api-go-client
+  + Mixin Messager Android https://github.com/MixinNetwork/android-app
+  + Mixin Messager iOS https://github.com/MixinNetwork/ios-app
+  + Nodejs Demo (non official): https://github.com/virushuo/mixin-node
+  + Python Demo (non official): https://github.com/myrual/mixin_client_demo
+  + Java Demo (non official): https://github.com/qige-one/mixin_java_sdk
+  + Ocean ONE (blockchain exchange): https://github.com/MixinNetwork/ocean.one
++ 相关文章
+  + [Mixin Network Testnet Released, Overseas Community Building Officially Launched](https://medium.com/mixinnetwork/mixin-network-testnet-released-overseas-community-building-officially-launched-82ed5f303830)
+  + [$1 Million Technical Community Bounty Released by Mixin Network](https://medium.com/mixinnetwork/1-million-technical-community-bounty-released-by-mixin-network-13e902e6ca7c)
+
+
 ### COTI
 
 + 简介：基于DAG的新型数字支付，提出Trust Chain共识
