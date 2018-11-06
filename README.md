@@ -75,6 +75,7 @@
   + [IOTA可视化展示](https://public-rdsdavdrpd.now.sh/)
   + [IOTA is centralized](https://medium.com/@ercwl/iota-is-centralized-6289246e7b4d)
   + [物联网与『高效的』IOTA](https://draveness.me/iota-tangle)
+  + [Is IOTA’s Tangle Really Quantum-Proof?](https://medium.com/@cleanapp/is-iotas-tangle-really-quantum-proof-e08550387b96)
 
 ### Byteball
 
@@ -146,6 +147,7 @@
   + [Demystifying Hashgraph: Benefits and Challenges](https://hackernoon.com/demystifying-hashgraph-benefits-and-challenges-d605e5c0cee5)
   + [Is The Future Of Blockchains DAGs ?— 5 Takeaways From The Hashgraph Event In NYC on March 13th](https://medium.com/crypto-oracle/is-the-future-of-blockchains-dags-5-lessons-from-the-hashgraph-event-in-nyc-on-march-13th-ff0f7e0fa510)
   + [Hedera Hashgraph and a few thoughts on the future of distributed ledgers](https://medium.com/@eburgwedel/hedera-hashgraph-and-a-few-thoughts-on-the-future-of-distributed-ledgers-648e9eefb901)
+  + [Blockchains vs. Hashgraphs](https://hackernoon.com/blockchains-vs-hashgraphs-66a2058c8b43)
 
 ### COTI
 
