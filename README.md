@@ -39,6 +39,9 @@
 + [Scaling crypto (idea): DAG + “clockchain”](https://medium.com/@thedavidmeister/scaling-crypto-idea-dag-clockchain-7809532c76bc)
 + [白话DAG：第3代区块链技术DAG全面盘点](https://bbfans.org/2018/05/21/dag-blockchain-review/)
 + [Are DAGs the next big thing in crypto?](https://blog.goodaudience.com/are-dags-the-next-big-thing-in-crypto-eed8a28591db)
++ [An overview of Proof of Work based blockchain consensus protocols (part 1)](https://medium.com/@drstone/an-overview-of-proof-of-work-based-blockchain-consensus-protocols-part-1-e04102885093)
++ [An overview of SPECTRE - a blockDAG consensus protocol (part 2)](https://medium.com/@drstone/an-overview-of-spectre-a-blockdag-consensus-protocol-part-2-36d3d2bd33fc)
++ [An overview of PHANTOM: A blockDAG consensus protocol (part 3)](https://medium.com/@drstone/an-overview-of-phantom-a-blockdag-consensus-protocol-part-3-f28fa5d76ef7)
 
 ## DAG基础
 
@@ -58,6 +61,7 @@
     + [中文翻译](https://github.com/DAGfans/TranStudy/blob/master/Papers/PHANTOM%20-%20A%20Scalable%20BlockDAG%20protocol.md)
 + [Snowflake to Avalanche: A Novel Metastable Consensus Protocol Family for Cryptocurrencies](https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV) - 新型的DAG协议Avalanche
 + [Scaling Nakamoto Consensus to Thousands of Transactions per Second](https://arxiv.org/pdf/1805.03870.pdf) - 新型的DAG协议Conflux
++ [Deconstructing the Blockchain to Approach Physical Limits](https://export.arxiv.org/pdf/1810.08092)
 
 ## 典型项目
 
@@ -76,6 +80,10 @@
   + [IOTA is centralized](https://medium.com/@ercwl/iota-is-centralized-6289246e7b4d)
   + [物联网与『高效的』IOTA](https://draveness.me/iota-tangle)
   + [Is IOTA’s Tangle Really Quantum-Proof?](https://medium.com/@cleanapp/is-iotas-tangle-really-quantum-proof-e08550387b96)
+  + [Coordinator. Part 1: The Path to Coordicide](https://blog.iota.org/coordinator-part-1-the-path-to-coordicide-ee4148a8db08)
+  + [Coordinator. Part 2: IOTA is a DAG, not a Blockchain](https://blog.iota.org/coordinator-part-2-iota-is-a-dag-not-a-blockchain-2df8ec85200f)
+  + [Coordinator. Part 3: Approaches to Coordicide](https://blog.iota.org/coordinator-part-3-approaches-to-coordicide-583fb82382bc)
+  + [Coordinator. Part 4: An Open Source Coordinator](https://blog.iota.org/coordinator-part-4-an-open-source-coordinator-7d3804931058)
 
 ### Byteball
 
