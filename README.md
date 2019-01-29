@@ -89,8 +89,11 @@
 
 + 简介：面向日常支付使用，具有简单的智能合约
 + [官网](http://byteball.org/)
-+ [白皮书](https://byteball.org/Byteball.pdf)
++ 白皮书：
+  + [英文版](https://byteball.org/Byteball.pdf)
+  + [中文版](https://bbfans.org/byteball-whitepaper/)
 + [代码库](https://github.com/byteball)
++ [开发文档](https://developer.byteball.org/)
 + 相关文章：
   + [byteball介绍1](https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2) - byteball的产生原因
   + [byteball介绍2](https://medium.com/@Suirelav/introduction-to-byteball-part-2-the-dag-ce84ca4c4e01) - DAG技术
