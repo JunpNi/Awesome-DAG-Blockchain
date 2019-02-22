@@ -132,6 +132,18 @@
 + 相关文章：
   + [RaiBlocks网络压力测试1](https://hackernoon.com/stress-testing-the-raiblocks-network-568be62fdf6d)
   + [RaiBlocks网络压力测试2](https://medium.com/@bnp117/stress-testing-the-raiblocks-network-part-ii-def83653b21f)
+  
+### VITE
+
++ 简介：高性能去中心化生态系统
++ [官网](https://www.vite.org/zh)
++ [白皮书](https://github.com/vitelabs/whitepaper/blob/master/vite_cn.pdf)
++ [代码库](https://github.com/vitelabs)
++ [浏览器](https://explorer.vite.net)
++ [网页钱包](https://wallet.vite.net)
++ [论坛](https://forum.vite.net)
++ [技术博客](https://vite.blog/zh-cn)
++ [文档](https://vite.wiki)
 
 ### HashGraph
 
