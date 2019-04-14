@@ -7,7 +7,7 @@
 这个仓库主要是用来搜集与基于DAG技术的区块链相关的资源，请随意Star或者Fork。如果有任何建议和评论，[请提交到这里](https://github.com/guantau/Awesome-DAG-Blockchain/issues)。欢迎提交各种PR :)，格式参考 [awesome](https://github.com/sindresorhus/awesome) 的清单。
 
 > 喜欢DAG技术的小伙伴有根据地啦，欢迎来我们的DAG技术研究室（ https://daglabs.io/ ）交流及投稿
-> 
+>
 > 对字节雪球ByteBall感兴趣的可以到ByteBall技术社区（ https://bbfans.org/ ）进行交流
 
 
@@ -135,6 +135,18 @@
   + [RaiBlocks网络压力测试1](https://hackernoon.com/stress-testing-the-raiblocks-network-568be62fdf6d)
   + [RaiBlocks网络压力测试2](https://medium.com/@bnp117/stress-testing-the-raiblocks-network-part-ii-def83653b21f)
   + [Why is Nano Fast? — The Basics Nano is fast, very fast, but how is the network able to operate so quickly?](https://medium.com/nanocurrency/why-is-nano-fast-the-basics-a2ef32cc3f80)
+
+### VITE
+
++ 简介：高性能去中心化生态系统
++ [官网](https://www.vite.org/zh)
++ [白皮书](https://github.com/vitelabs/whitepaper/blob/master/vite_cn.pdf)
++ [代码库](https://github.com/vitelabs)
++ [浏览器](https://explorer.vite.net)
++ [网页钱包](https://wallet.vite.net)
++ [论坛](https://forum.vite.net)
++ [技术博客](https://vite.blog/zh-cn)
++ [文档](https://vite.wiki)
 
 ### HashGraph
 
