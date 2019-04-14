@@ -42,6 +42,7 @@
 + [An overview of Proof of Work based blockchain consensus protocols (part 1)](https://medium.com/@drstone/an-overview-of-proof-of-work-based-blockchain-consensus-protocols-part-1-e04102885093)
 + [An overview of SPECTRE - a blockDAG consensus protocol (part 2)](https://medium.com/@drstone/an-overview-of-spectre-a-blockdag-consensus-protocol-part-2-36d3d2bd33fc)
 + [An overview of PHANTOM: A blockDAG consensus protocol (part 3)](https://medium.com/@drstone/an-overview-of-phantom-a-blockdag-consensus-protocol-part-3-f28fa5d76ef7)
++ [An introduction to the Block-Lattice The technology that solves the problems of today’s blockchains](https://medium.com/coinmonks/an-introduction-to-the-block-lattice-382071fc34ac)
 
 ## DAG基础
 
@@ -84,6 +85,7 @@
   + [Coordinator. Part 2: IOTA is a DAG, not a Blockchain](https://blog.iota.org/coordinator-part-2-iota-is-a-dag-not-a-blockchain-2df8ec85200f)
   + [Coordinator. Part 3: Approaches to Coordicide](https://blog.iota.org/coordinator-part-3-approaches-to-coordicide-583fb82382bc)
   + [Coordinator. Part 4: An Open Source Coordinator](https://blog.iota.org/coordinator-part-4-an-open-source-coordinator-7d3804931058)
+  + [The Alpha and the Omega in the crypto space Group-dynamic processes as an explanatory approach](https://blog.goodaudience.com/the-alpha-and-the-omega-in-the-crypto-space-fea685f0c33c)
 
 ### Byteball
 
@@ -132,6 +134,7 @@
 + 相关文章：
   + [RaiBlocks网络压力测试1](https://hackernoon.com/stress-testing-the-raiblocks-network-568be62fdf6d)
   + [RaiBlocks网络压力测试2](https://medium.com/@bnp117/stress-testing-the-raiblocks-network-part-ii-def83653b21f)
+  + [Why is Nano Fast? — The Basics Nano is fast, very fast, but how is the network able to operate so quickly?](https://medium.com/nanocurrency/why-is-nano-fast-the-basics-a2ef32cc3f80)
 
 ### HashGraph
 
